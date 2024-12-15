@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Hi there 👋<h2> I'm Shivam</h2>
+<h2> I'm Aman Kumar</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -8,13 +8,14 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies, developing software solutions, and creating quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Pursuing BTech in Computer Science and Engineering from I.K. Gujral Punjab Technical University and coding for fun and learning.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning about Advance Algorithms and Operating Systems.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Passionate about Frontend Development with expertise in HTML, CSS, JavaScript, and continuously improving skills in Java, C++, Python. Also enhancing knowledge in Data Structures and Algorithms (DSA).
+
 
 
 
@@ -24,20 +25,19 @@
 
 - 💻 &nbsp; Python | Java | C++ | C | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap |
 
-<!--
 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; MySQL 
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🔧 &nbsp; Git | Github
 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
--->
+
 
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker🐳 | Django
