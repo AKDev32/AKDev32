@@ -1,4 +1,4 @@
-## Hi there 👋
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <h2> I'm Aman Kumar</h2>
 
