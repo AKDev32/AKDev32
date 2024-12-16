@@ -2,11 +2,7 @@
 
 <h2> I'm Aman Kumar</h2>
 
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
-
 <h3> 👨🏻•💻 About Me </h3>
-
-
 
 - 🤔 &nbsp; Exploring new technologies, developing software solutions, and creating quick hacks.
 
