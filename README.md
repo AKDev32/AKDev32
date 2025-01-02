@@ -20,10 +20,9 @@
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <br />
 <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat">  
 
-
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=amankumarthakur63&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ## ⚡Activity Graph
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=amankumarthakur63&theme=react-dark"/>
