@@ -22,6 +22,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
+<img align="right" alt="Coding" width="320" src="https://github.com/amankumarthakur63/amankumarthakur63/blob/resources/media/Cat-animation.gif">
+
+
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=amankumarthakur63&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ## ⚡Activity Graph
