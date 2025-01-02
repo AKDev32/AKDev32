@@ -21,6 +21,10 @@
 <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat">  
 
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/amankumarthakur63/amankumarthakur63/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/amankumarthakur63/amankumarthakur63/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <img align="right" alt="Coding" width="320" src="https://github.com/amankumarthakur63/amankumarthakur63/blob/resources/media/Cat-animation.gif">
