@@ -27,6 +27,10 @@
 ## ⚡Activity Graph
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=amankumarthakur63&theme=react-dark"/>
 
+
+### Some stats about Aman
+<img alt="Aman's github stats" src="https://github-readme-stats.vercel.app/api?username=amankumarthakur63&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
