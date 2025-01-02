@@ -27,9 +27,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://github.com/amankumarthakur63/amankumarthakur63/blob/resources/media/Cat-animation.gif">
 
-[![Aman's github stats](https://bad-apple-github-readme.vercel.app/api?username=amankumarthakur63 &show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)  
-[![Aman's current streak](https://streak-stats.demolab.com/?user=amankumarthakur63 &count_private=true&theme=blue-green&title_color=00b3ff)](#)  
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=amankumarthakur63&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+ languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=amankumarthakur63&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ## ⚡Activity Graph
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=amankumarthakur63&theme=react-dark"/>
