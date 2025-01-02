@@ -26,3 +26,13 @@
 
 ## ⚡Activity Graph
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=amankumarthakur63&theme=react-dark"/>
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=amankumarthakur63 &limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
