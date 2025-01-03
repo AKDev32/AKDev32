@@ -26,10 +26,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/yasir-shahzad/amankumarthakur63/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 <img alt="Aman's github stats" src="https://github-readme-stats.vercel.app/api?username=amankumarthakur63&&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" >
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=amankumarthakur63&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
