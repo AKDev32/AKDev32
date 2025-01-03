@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"> <img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff"> <br/>
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <br />
 <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat">
+
+<img src="https://img.shields.io/badge/-%20Algorithms-ffa804?style=flat"> 
 <img src="https://img.shields.io/badge/-Data%20Structures-102230?style=flat">  
 
  
