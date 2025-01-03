@@ -32,7 +32,7 @@
 
 <img alt="Aman's github stats" src="https://github-readme-stats.vercel.app/api?username=amankumarthakur63&&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" >
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=amankumarthakur63 &show_icons=true&theme=synthwave" alt="amankumarthakur63 :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=amankumarthakur63 &show_icons=true&theme=synthwave" alt="Aman's :: Profile Stats" /></p>
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=amankumarthakur63&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
