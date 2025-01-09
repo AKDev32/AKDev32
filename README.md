@@ -26,14 +26,15 @@
 
 ## 🔧 Projects
 
-## 1. Java 
+## 1. <h2>Java</h2>
+ 
 <h4>Snake Game </h4> 
 <h4>Tic Tac Toe </h4>
 
-## 2. Data Structures and Algorithms 
+## 2. <h2>Data Structurs & Algorithms</h2>
 <h4>Algorithms Visualizer</h4>
  
-## 3. Web Development 
+## 3. <h2>Web Development</h2> 
 <h4>Job Portal</h4>
 <h4>Job Portal with Back-end in PHP<h4>
 
