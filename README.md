@@ -26,16 +26,17 @@
 
 ## 🔧 Projects
 
-# 1. Java 
-<h4>Snake game </h4> 
+## 1. Java 
+<h4>Snake Game </h4> 
 <h4>Tic Tac Toe </h4>
 
-# 2. Data Structures and Algorithms 
-# Algorithms Visualizer
+## 2. Data Structures and Algorithms 
+<h4>Algorithms Visualizer</h4>
  
-# 3. Web Development 
-# Job Portal 
-# Job Portal with back-end in php
+## 3. Web Development 
+<h4>Job Portal</h4>
+<h4>Job Portal with Back-end in PHP<h4>
+
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
