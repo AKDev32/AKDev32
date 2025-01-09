@@ -27,8 +27,8 @@
 ## 🔧 Projects
 
 # 1. Java 
-# Snake game 
-# Tic Tac Toe
+<h4>Snake game </h4> 
+<h4>Tic Tac Toe </h4>
 
 # 2. Data Structures and Algorithms 
 # Algorithms Visualizer
