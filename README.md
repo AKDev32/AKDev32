@@ -26,14 +26,14 @@
 
 ## 🔧 Projects
 
-### 1. Java 
+# 1. Java 
 # Snake game 
-# Tic Tac Toe 
+# Tic Tac Toe
 
-### 2. Data Structures and Algorithms 
-# Algorithms Visualizer 
-
- ### 1. Web Development 
+# 2. Data Structures and Algorithms 
+# Algorithms Visualizer
+ 
+# 3. Web Development 
 # Job Portal 
 # Job Portal with back-end in php
 
