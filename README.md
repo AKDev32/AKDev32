@@ -27,8 +27,8 @@
 ## 🔧 Projects
 
 ### 1. ** Java**  
-- ## 🐍 Snake game 
-- ## Tic Tac Toe 
+- # Snake game 
+- # Tic Tac Toe 
 
 
  
