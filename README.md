@@ -35,7 +35,7 @@
  
 <h3> 3. Web Development</h3> 
 <h4>Job Portal</h4>
-<h4>Job Portal with Back-end in PHP<h4>
+<h4>Job Portal with MYSQL and PHP<h4>
 
 
 
