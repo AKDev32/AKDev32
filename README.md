@@ -2,7 +2,7 @@
 
 <h1> I'm Aman Kumar</h1>
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻•💻 About Me</h3>
 
 - 🤔 &nbsp; Exploring new technologies, developing software solutions, and creating quick hacks.
 
