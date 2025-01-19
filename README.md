@@ -48,5 +48,4 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=amankumarthakur63&theme=react-dark"/>
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
