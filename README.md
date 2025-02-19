@@ -47,5 +47,12 @@
 ## ⚡Activity Graph
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=amankumarthakur63&theme=react-dark"/>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/" target="parent"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bikman-ntiruhungwa-a54641240" height="30" width="40" /></a>
+<a href="https://instagram.com/theamankumarthakur" target="parent"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bikman_bun_djuma" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Aman_LeetMond32" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bikmangeek" height="30" width="40" /></a>
+<a href="mailto: amanku6936@gmail.com@gmail.com" target="parent"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9JOHxRmhJ3K3QwX236A2VWrjXA2UIC8S9AA&s" alt="bikmangeek" height="30" width="40" /></a>
+</p>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
