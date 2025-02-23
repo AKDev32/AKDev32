@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<h1> I'm Aman Kumar  </h1>
+<h1> I'm Aman Kumar</h1>
 
 <h3> 👨🏻•💻 About Me</h3>
 
