@@ -13,22 +13,33 @@
 </ul>
 
 ### Technical Skills
-<p>
-  <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-Java%208-06305b?style=flat&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"><br>
-  <img src="https://img.shields.io/badge/-Django-black?style=flat&logo=django">
-  <img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff"><br>
-  <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat">
-  <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat">
-  <img src="https://img.shields.io/badge/-Data%20Structures-4d008f?style=flat">
-  <img src="https://img.shields.io/badge/-Algorithms-ffa804?style=flat"><br>
-  <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat">
-</p>
+
+#### **Programming Languages**
+- **C & C++**: Strong knowledge of both C and C++, used in competitive programming and problem-solving.
+- **Java**: Proficient in Java, with experience in building desktop applications and games.
+- **Python**: Experienced in Python for scripting, automation, and solving algorithmic problems.
+  
+#### **Web Development**
+- **HTML5**: Expertise in building semantic and accessible web pages using HTML.
+- **CSS3**: Strong skills in CSS for designing responsive and visually appealing layouts.
+- **JavaScript**: Proficient in JavaScript for building interactive and dynamic web applications.
+- **React**: Experienced in using React for building scalable and efficient single-page applications (SPAs).
+- **Bootstrap**: Comfortable with Bootstrap for creating responsive and mobile-first web designs.
+
+#### **Backend Development**
+- **Node.js**: Proficient in using Node.js for building fast and scalable server-side applications.
+- **Express.js**: Experienced in using Express.js to create RESTful APIs and server-side routing with minimal overhead.
+
+#### **Data Structures & Algorithms**
+- **Data Structures**: In-depth understanding of arrays, linked lists, stacks, queues, trees, graphs, and hash maps.
+- **Algorithms**: Familiar with algorithms like sorting, searching, dynamic programming, greedy algorithms, and graph algorithms.
+- **Problem Solving**: Regularly participate in competitive programming platforms (e.g., LeetCode, Codeforces) to improve problem-solving skills.
+
+#### **Version Control & Tools**
+- **Git**: Proficient in using Git for version control and GitHub for managing code repositories.
+- **Linux**: Comfortable working in a Linux environment for development and server-side tasks.
+---
+  
 
 ## 🔧 Projects
 
