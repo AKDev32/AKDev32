@@ -66,6 +66,18 @@
 - A full-fledged dynamic web application for job seekers and recruiters, allowing users to post, search, and apply for jobs.
 - [View Project](https://github.com/amankumarthakur63/Job-Portal-Project)
 
+#### **Pig Game with HTML, CSS & JavaScript**
+- A fun and interactive two-player dice game showcasing dynamic DOM manipulation, event handling, and responsive design.
+- [View Project](https://github.com/amankumarthakur63/Pig_Game)
+
+#### **Guess My Number with HTML, CSS & JavaScript**
+- A simple and interactive number-guessing game showcasing dynamic DOM manipulation, event handling, and responsive design.
+- [View Project](https://github.com/amankumarthakur63/guessMyNumber)
+
+#### **Modal Window with HTML, CSS & JavaScript**
+- A simple and interactive modal window implementation showcasing dynamic DOM manipulation, event handling, and responsive design.
+- [View Project](https://github.com/amankumarthakur63/Model_JavaScript)
+
 #### **Job Portal with MySQL & PHP**
 - An advanced version of the Job Portal integrated with a MySQL database for data management and PHP for server-side logic.
 - [View Project](https://github.com/amankumarthakur63/Job-Portal)
