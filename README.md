@@ -40,19 +40,7 @@
 
 ## 🔧 Projects
 
-### 1. **Java Projects**
-
-#### **Snake Game**
-- A simple and interactive Snake game developed using Java. It offers a classic gaming experience with a user-friendly interface.
-- [View Project](https://github.com/amankumarthakur63/SnakeGame) 
-
-#### **Tic Tac Toe**
-- A two-player Tic Tac Toe game created with Java, featuring an intuitive UI and logic to handle game rules and player turns.
-- [View Project](https://github.com/amankumarthakur63/TicTacToeGame)
-
----
-
-### 2. **Data Structures & Algorithms**
+### 1. **Data Structures & Algorithms**
 
 #### **Algorithms Visualizer**
 - An interactive visualizer for demonstrating various algorithms, designed to help learners understand algorithm behavior and logic.
@@ -60,7 +48,8 @@
 
 ---
 
-### 3. **Web Development Projects**
+
+### 2. **Web Development Projects**
 
 #### **Job Portal**
 - A full-fledged dynamic web application for job seekers and recruiters, allowing users to post, search, and apply for jobs.
@@ -81,6 +70,20 @@
 #### **Job Portal with MySQL & PHP**
 - An advanced version of the Job Portal integrated with a MySQL database for data management and PHP for server-side logic.
 - [View Project](https://github.com/amankumarthakur63/Job-Portal)
+---
+
+### 3. **Java Projects**
+
+#### **Snake Game**
+- A simple and interactive Snake game developed using Java. It offers a classic gaming experience with a user-friendly interface.
+- [View Project](https://github.com/amankumarthakur63/SnakeGame) 
+
+#### **Tic Tac Toe**
+- A two-player Tic Tac Toe game created with Java, featuring an intuitive UI and logic to handle game rules and player turns.
+- [View Project](https://github.com/amankumarthakur63/TicTacToeGame)
+
+---
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 ![ViewCount](https://views.whatilearened.today/views/github/amankumarthakur63/amankumarthakur63.svg?cache=remove)
