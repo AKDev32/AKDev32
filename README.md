@@ -42,28 +42,26 @@ An interactive tool that visualizes sorting and searching algorithms to aid lear
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=amankumarthakur63&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ## ⚡ Activity Graph
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=amankumarthakur63&theme=react-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AKDev32&theme=react-dark"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/aman-kumar-53ab582b5" target="parent">
+  <a href="https://linkedin.com/in/aman32" target="parent">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aman Kumar LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/theamankumarthakur" target="parent">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aman Kumar Instagram" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/Aman_LeetMind32" target="__blank">
+  <a href="https://leetcode.com/Aman_LeetMind" target="__blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Aman Kumar LeetCode" height="30" width="40" />
   </a>
   <a href="mailto:amanku6936@gmail.com" target="parent">
     <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9JOHxRmhJ3K3QwX236A2VWrjXA2UIC8S9AA&s" alt="Aman Kumar Email" height="30" width="40" />
   </a>
----
 
 
 📫 **Let's connect**  
 Check out my work, explore my code, or collaborate on something awesome!
-
 ---
 
 <p align="center">
