@@ -28,7 +28,7 @@
 ## 🔍 Highlight Project
 
 ### 🎯 [Algorithms Visualizer](https://github.com/amankumarthakur63/Algorithm-Visualizer)
-An interactive tool that visualizes sorting and searching algorithms to aid learning and understanding. Built using HTML, CSS, and JavaScript.  
+An interactive tool that visualizes sorting and searching algorithms to aid learning and understanding. Built using Java.  
 ✅ Clean UI | 📊 Educational | 💡 Designed for learners
 
 ---
