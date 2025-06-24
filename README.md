@@ -80,8 +80,8 @@
   </tr>
 </table>
 
-**CS Fundamentals:**  
-<img src="https://img.shields.io/badge/Data%20Structures-00599C?style=flat-square" alt="Data Structures" /> Algorithms &nbsp; | &nbsp; OS &nbsp; | &nbsp; DBMS
+**CS Fundamentals:**
+Data Structures &nbsp; | &nbsp Algorithms &nbsp; | &nbsp; OS &nbsp; | &nbsp; DBMS
 
 
 ---
@@ -108,10 +108,6 @@ An interactive tool to visualize sorting and searching algorithms—making learn
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKDev32&theme=react-dark" alt="Activity Graph"/>
 </p>
-
-  
-
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=AKDev32 &hide_border=true&show_icons=true)
 
 ---
 
