@@ -81,7 +81,7 @@
 </table>
 
 **CS Fundamentals:**
-Data Structures &nbsp; | &nbsp Algorithms &nbsp; | &nbsp; OS &nbsp; | &nbsp; DBMS
+Data Structures &nbsp; | &nbsp; Algorithms &nbsp; | &nbsp; OS &nbsp; | &nbsp; DBMS
 
 
 ---
