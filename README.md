@@ -38,6 +38,7 @@ An interactive tool that visualizes sorting and searching algorithms to aid lear
 ![ViewCount](https://views.whatilearened.today/views/github/AKDev32/AKDev32.svg?cache=remove)
 
 <img alt="Aman's github stats" src="https://github-readme-stats.vercel.app/api?username=AKDev32&&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" >
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=AKDev32&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ## ⚡ Activity Graph
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AKDev32&theme=react-dark"/>
