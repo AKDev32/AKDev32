@@ -81,7 +81,8 @@
 </table>
 
 **CS Fundamentals:**  
-<img src="https://img.shields.io/badge/Data%20Structures-00599C?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwIiB3aWR0aD0iMjAiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0iIzAwMDAwMCIvPjwvc3ZnPg==" /> Algorithms &nbsp; | &nbsp; OS &nbsp; | &nbsp; DBMS
+<img src="https://img.shields.io/badge/Data%20Structures-00599C?style=flat-square" alt="Data Structures" /> Algorithms &nbsp; | &nbsp; OS &nbsp; | &nbsp; DBMS
+
 
 ---
 
@@ -108,8 +109,9 @@ An interactive tool to visualize sorting and searching algorithms—making learn
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKDev32&theme=react-dark" alt="Activity Graph"/>
 </p>
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/api?username=AKDev32&bg-color=1a1b27&color=00b3ff&line=2af598&point=00b3ff" alt="Contribution Graph" />
+  <img src="https://github-contribution-graph.vercel.app/api?username=AKDev32&bg-color=1a1b27&color=00b3ff&line=2af598&point=00b3ff" alt="GitHub Contribution Graph" />
 </p>
+
 
 ---
 
