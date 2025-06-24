@@ -93,7 +93,7 @@ An interactive tool to visualize sorting and searching algorithms—making learn
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://views.whatilearened.today/views/github/AKDev32/AKDev32.svg?cache=remove" alt="Profile Views" />
@@ -106,6 +106,9 @@ An interactive tool to visualize sorting and searching algorithms—making learn
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKDev32&theme=react-dark" alt="Activity Graph"/>
+</p>
+<p align="center">
+  <img src="https://github-contribution-graph.vercel.app/api?username=AKDev32&bg-color=1a1b27&color=00b3ff&line=2af598&point=00b3ff" alt="Contribution Graph" />
 </p>
 
 ---
