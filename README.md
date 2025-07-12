@@ -1,5 +1,3 @@
-<!-- README.md -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b3ff,100:2af598&height=120&section=header&text=Hi!%20I'm%20Aman%20Kumar&fontSize=42&animation=fadeIn" />
 </p>
