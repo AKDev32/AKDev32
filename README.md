@@ -30,9 +30,7 @@
 - 🌱 Currently diving deep into <b>Full Stack Development</b> with a strong Java & Python foundation.
 - 🧩 Regular participant in <b>DSA challenges</b> to enhance my problem-solving skills.
 - 🛠️ Loves open source, Git, and Linux-based development.
-
 ---
-
 ## 🚀 Tech Stack Overview
 
 ### 💻 Programming Languages
@@ -42,11 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
 </p>
-
 ---
-
 ### 🖥️ Frontend Skills
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
