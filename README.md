@@ -1,11 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b3ff,100:2af598&height=120&section=header&text=Hi!%20I'm%20Aman%20Kumar&fontSize=42&animation=fadeIn" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00b3ff&center=true&vCenter=true&width=435&lines=Software+Developer;Backend+Enthusiast;Full+Stack+Learner;System+Design+Learner" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/aman32" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -112,7 +110,6 @@ An interactive tool to visualize sorting and searching algorithms—making learn
 - 💬 Always open to discussing new ideas, collaborating, or just geeking out over code!
 - 📫 <b>Reach me at:</b> 
   <a href="mailto:amanku6936@gmail.com">amanku6936@gmail.com</a> | <a href="https://linkedin.com/in/aman32">LinkedIn</a> | <a href="https://leetcode.com/Aman_LeetMind">LeetCode</a>
-
 ---
 
 <p align="center">
