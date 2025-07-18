@@ -18,15 +18,19 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 ---
-## 👨‍💻 About Me
+
+##👨‍💻 About Me
 
 - 🎓 **B.Tech CSE** | I.K. Gujral Punjab Technical University
 - 🚀 Building <b>user-focused applications</b> and solving real-world problems through code.
 - 🌱 Currently diving deep into <b>Full Stack Development</b> with a strong Java & Python foundation.
 - 🧩 Regular participant in <b>DSA challenges</b> to enhance my problem-solving skills.
 - 🛠️ Loves open source, Git, and Linux-based development.
+- 
 ---
+
 ## 🚀 Tech Stack Overview
 
 ### 💻 Programming Languages
@@ -65,7 +69,6 @@
 
 ---
 
-
 ### 🛠️ Tools & Platforms
 
 <p align="center">
@@ -73,10 +76,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
 </p>
 
-
 **CS Fundamentals:**
 Data Structures &nbsp; | &nbsp; Algorithms &nbsp; | &nbsp; OS &nbsp; | &nbsp; DBMS
-
 
 ---
 
