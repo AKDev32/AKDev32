@@ -21,7 +21,7 @@
 
 ---
 
-##👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 **B.Tech CSE** | I.K. Gujral Punjab Technical University
 - 🚀 Building <b>user-focused applications</b> and solving real-world problems through code.
