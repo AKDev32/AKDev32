@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/aman32" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
+  </a>
   <a href="https://instagram.com/theamankumarthakur" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -21,75 +21,40 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 🎓 **B.Tech CSE** | I.K. Gujral Punjab Technical University
-- 🚀 Building <b>user-focused applications</b> and solving real-world problems through code.
-- 🌱 Currently diving deep into <b>Full Stack Development</b> with a strong Java & Python foundation.
-- 🧩 Regular participant in <b>DSA challenges</b> to enhance my problem-solving skills.
-- 🛠️ Loves open source, Git, and Linux-based development.
-- 
+I'm Aman Kumar, a **Software Developer** with a B.Tech in CSE from I.K. Gujral Punjab Technical University. I enjoy building **user-focused applications** and solving real-world problems through code.
+
+Currently, I'm deepening my expertise in **System Design**, **Data Structures and Algorithms (DSA)**, and **backend development with Java**, while also proficient in **full-stack development**. My goal is to contribute to **product-based companies** where I can apply my skills and grow.
+
+I'm a regular participant in **DSA challenges** to sharpen my problem-solving skills and have a keen interest in open-source contributions, Git, and Linux-based development environments.
+
 ---
 
-## 🚀 Tech Stack Overview
+## 🛠️ Skills & Tools
 
-### 💻 Programming Languages
+Here's a snapshot of my technical toolkit:
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,spring,hibernate,mongodb,mysql,git,linux,postman,vscode" />
+  </a>
 </p>
+
+**CS Fundamentals:** Data Structures | Algorithms | Operating Systems | Database Management Systems (DBMS)
 
 ---
 
-### 🖥️ Frontend Skills
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
-</p>
-
----
-
-### 🖧 Backend Skills
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js" style="background: green; border-radius: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="40" height="40" alt="Hibernate"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven"/>
-</p>
-
----
-
-### 🛠️ Tools & Platforms
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-</p>
-
-**CS Fundamentals:**
-Data Structures &nbsp; | &nbsp; Algorithms &nbsp; | &nbsp; OS &nbsp; | &nbsp; DBMS
-
----
-
-## 🔍 Highlight Project
+## ✨ Featured Project
 
 ### 🎯 [Algorithms Visualizer](https://github.com/amankumarthakur63/Algorithm-Visualizer)
-An interactive tool to visualize sorting and searching algorithms—making learning fun and engaging!  
-<b>Tech:</b> Java | <b>Features:</b> Intuitive UI, Educational, Designed for learners
+An interactive tool designed to visualize sorting and searching algorithms, making complex concepts intuitive and engaging.
+
+**Key Features:** Intuitive User Interface, Educational, Built for Learners
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://views.whatilearened.today/views/github/AKDev32/AKDev32.svg?cache=remove" alt="Profile Views" />
@@ -106,11 +71,14 @@ An interactive tool to visualize sorting and searching algorithms—making learn
 
 ---
 
-## 🤝 Let's Connect!
+## 🔗 Let's Connect!
 
-- 💬 Always open to discussing new ideas, collaborating, or just geeking out over code!
-- 📫 <b>Reach me at:</b> 
-  <a href="mailto:amanku6936@gmail.com">amanku6936@gmail.com</a> | <a href="https://linkedin.com/in/aman32">LinkedIn</a> | <a href="https://leetcode.com/Aman_LeetMind">LeetCode</a>
+I'm always eager to discuss new ideas, collaborate on interesting projects, or simply connect with fellow developers.
+
+- **Email:** amanku6936@gmail.com
+- **LinkedIn:** [Aman Kumar](https://linkedin.com/in/aman32)
+- **LeetCode:** [Aman_LeetMind](https://leetcode.com/Aman_LeetMind)
+
 ---
 
 <p align="center">
