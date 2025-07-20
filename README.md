@@ -56,7 +56,7 @@ An interactive tool designed to visualize sorting and searching algorithms, maki
 ![](https://nirzak-streak-stats.vercel.app/?user=AKDev32&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKDEV32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKDev32&theme=react-dark" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKDev32&theme=github-compact&bg_color=000000&color=ffffff&line=00c0ff&point=ffffff&hide_border=false" alt="Activity Graph"/>
 </p>
 
 ---
