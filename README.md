@@ -52,12 +52,9 @@ An interactive tool designed to visualize sorting and searching algorithms, maki
 ---
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Aman-raj23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aman-raj23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-raj23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-<p align="center">
-  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=AKDev32&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top Languages" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=AKDev32&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AKDev32&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKDEV32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKDev32&theme=react-dark" alt="Activity Graph"/>
 </p>
