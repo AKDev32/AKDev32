@@ -52,13 +52,9 @@ An interactive tool designed to visualize sorting and searching algorithms, maki
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://views.whatilearened.today/views/github/AKDev32/AKDev32.svg?cache=remove" alt="Profile Views" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKDev32&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="Aman's github stats" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Aman-raj23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aman-raj23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-raj23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 <p align="center">
   <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=AKDev32&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top Languages" />
 </p>
