@@ -58,21 +58,11 @@ An interactive tool designed to visualize sorting and searching algorithms, maki
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKDev32&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=false" alt="Activity Graph"/>
 </p>
-
-
-
-
-
 ---
 
 ## 🔗 Let's Connect!
 
 I'm always eager to discuss new ideas, collaborate on interesting projects, or simply connect with fellow developers.
-
-- **Email:** amanku6936@gmail.com
-- **LinkedIn:** [Aman Kumar](https://linkedin.com/in/aman32)
-- **LeetCode:** [Aman_LeetMind](https://leetcode.com/Aman_LeetMind)
-
 ---
 
 <p align="center">
