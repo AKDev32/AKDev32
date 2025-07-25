@@ -58,6 +58,9 @@ My GitHub profile showcases my active development and contributions. The statist
 ![](https://github-readme-stats.vercel.app/api?username=AKDev32&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AKDev32&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKDEV32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKDev32&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=false" alt="Activity Graph"/>
+</p>
 
 ---
 
