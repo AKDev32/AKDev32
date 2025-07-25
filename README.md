@@ -69,3 +69,4 @@ I'm always eager to discuss new ideas, collaborate on interesting projects, or s
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b3ff,100:2af598&height=100&section=footer" />
 </p>
+
