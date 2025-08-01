@@ -63,6 +63,9 @@ My GitHub profile showcases my active development and contributions. The statist
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKDev32&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=false" alt="Activity Graph"/>
 </p>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/AKDev32/AKDev32/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/AKDev32/AKDev32/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ---
 
 ## 🔗 Let's Connect!
