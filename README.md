@@ -63,8 +63,34 @@ My GitHub profile showcases my active development and contributions. The statist
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKDev32&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=false" alt="Activity Graph"/>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/AKDev32/AKDev32/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/AKDev32/AKDev32/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Generate Snake SVG
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: AKDev32
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
+            ./output/github-contribution-grid-snake-dark.svg
+
+      - name: Push to output branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generate snake animation"
+          add: "output/*.svg"
 
 ---
 
