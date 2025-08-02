@@ -28,7 +28,6 @@ I am a regular participant in **DSA challenges**, which keeps my problem-solving
 
 ---
 
-
 ## 🛠️ Skills & Tools
 
 Here's a snapshot of my technical toolkit:
