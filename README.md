@@ -19,7 +19,6 @@
 ---
 
 ## 👋 About Me
-
 I'm Aman Kumar, a passionate and results-driven **Software Development Engineer (SDE)** with a B.Tech in CSE from I.K. Gujral Punjab Technical University. My expertise lies in architecting and deploying robust **MERN Stack applications**, focusing on building scalable and user-centric solutions that address real-world challenges.
 
 As an SDE, I thrive on crafting seamless full-stack experiences, from dynamic front-end interfaces using React to designing and implementing efficient back-end APIs with Node.js and Express. I am actively deepening my understanding of **System Design** principles and continuously sharpening my **Data Structures and Algorithms (DSA)** skills to ensure optimal performance and maintainability in my code. My career objective is to contribute to innovative **product-based companies** where I can apply my comprehensive MERN stack proficiency and strong SDE fundamentals to drive impactful technological advancements.
