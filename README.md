@@ -68,6 +68,7 @@ My GitHub profile showcases my active development and contributions. The statist
 I'm always eager to discuss new ideas, collaborate on interesting projects, or simply connect with fellow developers. Feel free to reach out!
 ---
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b3ff,100:2af598&height=100&section=footer" />
 </p>
