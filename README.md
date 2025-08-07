@@ -2,58 +2,69 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b3ff,100:2af598&height=120&section=header&text=Hi!%20I'm%20Aman%20Kumar&fontSize=42&animation=fadeIn" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00b3ff&center=true&vCenter=true&width=435&lines=Software+Development+Engineer;Full+Stack+MERN+Developer;System+Design+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00b3ff&center=true&vCenter=true&width=435&lines=Software+Development+Engineer+Intern;Full+Stack+MERN+Developer;DSA+Enthusiast" alt="Typing SVG" />
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/aman32" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/Aman_LeetMind" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="mailto:amanku6936@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
 
+## Skills & Tools
 
-## 👋 About Me
-I'm Aman Kumar, a passionate and results-driven **Software Development Engineer (SDE)** with a B.Tech in CSE from I.K. Gujral Punjab Technical University. My expertise lies in architecting and deploying robust **MERN Stack applications**, focusing on building scalable and user-centric solutions that address real-world challenges.
-
-As an SDE, I thrive on crafting seamless full-stack experiences, from dynamic front-end interfaces using React to designing and implementing efficient back-end APIs with Node.js and Express. I am actively deepening my understanding of **System Design** principles and continuously sharpening my **Data Structures and Algorithms (DSA)** skills to ensure optimal performance and maintainability in my code. My career objective is to contribute to innovative **product-based companies** where I can apply my comprehensive MERN stack proficiency and strong SDE fundamentals to drive impactful technological advancements.
-
-I am a regular participant in **DSA challenges**, which keeps my problem-solving abilities keen, and I have a strong interest in open-source contributions, Git version control, and efficient development within Linux environments.
-
----
-
-## 🛠️ Skills & Tools
-
-Here's a snapshot of my technical toolkit:
+Here's a snapshot of the technical toolkit:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,linux,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,linux,postman,vscode" alt="Skills" />
   </a>
 </p>
 
 **CS Fundamentals:** Data Structures | Algorithms | Object-Oriented Programming (OOP) | RESTful APIs | Database Management
 
----
-
-## ✨ Featured Project
-
-### 🎯 [Algorithms Visualizer](https://github.com/amankumarthakur63/Algorithm-Visualizer)
-An interactive tool designed to visualize sorting and searching algorithms, making complex concepts intuitive and engaging.
-
-**Key Features:** Intuitive User Interface, Educational, Built for Learners
+**Tools & Practices:** Git & GitHub | Vercel | Netlify | Agile Methodologies | Clean Code | Scalability | System Design (Learning)
 
 ---
 
-## 📈 GitHub Activity
+## 🛠️ About Me
 
-My GitHub profile showcases my active development and contributions. The statistics below dynamically update with my latest commits and activities, reflecting my ongoing engagement and learning.
+Aman Kumar is a driven Computer Science Engineering undergraduate (B.Tech 2027) at I.K. Gujral Punjab Technical University, specializing in MERN Stack development. The focus is building scalable, user-centric web applications that address real-world challenges.
+
+A strong foundation in Data Structures & Algorithms (200+ problems solved on LeetCode and GFG) is present, showcasing problem-solving skills. Expertise spans dynamic front-end interfaces with React.js and robust back-end APIs with Node.js and Express.js. Actively deepening the understanding of System Design principles to architect high-performance and maintainable code.
+
+The goal is to find SDE Internships or Software Engineer Intern roles where the candidate can contribute to innovative, product-based companies from day one. The candidate is a fast learner, a dedicated team player, and eager to collaborate with modern development teams to build impactful technological advancements.
+
+---
+
+## ✨ Featured Projects
+
+Multiple full-stack projects using the MERN stack have been developed, emphasizing clean code, scalability, and practical functionality.
+
+*   ### 🛒 [E-Commerce Website](https://github.com/amankumarthakur63/E-Commerce-Website)
+    A complete shopping platform with core functionalities including product listings, secure user authentication, shopping cart management, and order processing. This project highlights the ability to build end-to-end applications with real-world features.
+
+*   ### 🌐 [GitHub Clone](https://github.com/amankumarthakur63/GitHub-Clone)
+    Recreated a GitHub-style user interface, featuring repository pages, user profiles, and live search functionality using React and RESTful APIs. This project demonstrates proficiency in front-end development, API integration, and mimicking complex web applications.
+
+*   ### ⏰ [Smart Study Scheduler](https://github.com/amankumarthakur63/Smart-Study-Scheduler)
+    A MERN-stack application designed for efficient study planning, incorporating task priority and subject-based scheduling logic to enhance user productivity. This project showcases the ability to build functional applications with a focus on real-world utility and complex logic.
+
+*   ### 🎯 [Algorithms Visualizer](https://github.com/amankumarthakur63/Algorithm-Visualizer)
+    An interactive tool designed to visualize sorting and searching algorithms, making complex concepts intuitive and engaging for learners.
+
+---
+
+## 📈 GitHub Activity & Engagement
+
+The GitHub profile serves as a dynamic showcase of the ongoing development and learning journey. Consistent activity reflects dedication to honing skills and contributing to the community.
 
 ![](https://github-readme-stats.vercel.app/api?username=AKDev32&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AKDev32&theme=dark&hide_border=false)<br/>
@@ -62,15 +73,23 @@ My GitHub profile showcases my active development and contributions. The statist
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKDev32&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=false" alt="Activity Graph"/>
 </p>
 
+Actively engaging in:
+
+*   **Open Source Contributions:** Seeking opportunities to contribute to projects that align with MERN stack skills and learning interests, demonstrating the ability to collaborate and work within established codebases.
+*   **DSA Challenges:** Regularly participating in Data Structures and Algorithms challenges to maintain sharp problem-solving abilities and optimize code performance.
+*   **Effective Git Practices:** Maintaining a clean commit history with descriptive messages to facilitate understanding and collaboration.
+
 ---
 
 ## 🔗 Let's Connect!
 
-I'm always eager to discuss new ideas, collaborate on interesting projects, or simply connect with fellow developers. Feel free to reach out!
----
+Eager to discuss new ideas, collaborate on interesting projects, or connect with fellow developers.
 
+*   **LinkedIn:**  {Link: Aman Kumar https://linkedin.com/in/aman32}
+*   **Email:** amanku6936@gmail.com
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b3ff,100:2af598&height=100&section=footer" />
 </p>
-
