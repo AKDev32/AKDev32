@@ -36,7 +36,7 @@ Here's a snapshot of the technical toolkit:
 
 ## 🛠️ About Me
 
-Aman Kumar is a driven Computer Science Engineering undergraduate (B.Tech 2027) at I.K. Gujral Punjab Technical University, specializing in MERN Stack development. The focus is building scalable, user-centric web applications that address real-world challenges.
+Aman Kumar is a driven Computer Science Engineering undergraduate (B.Tech 2027) at Punjab Technical University (PTU), specializing in MERN Stack development. The focus is building scalable, user-centric web applications that address real-world challenges.
 
 A strong foundation in Data Structures & Algorithms (200+ problems solved on LeetCode and GFG) is present, showcasing problem-solving skills. Expertise spans dynamic front-end interfaces with React.js and robust back-end APIs with Node.js and Express.js. Actively deepening the understanding of System Design principles to architect high-performance and maintainable code.
 
