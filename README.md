@@ -48,15 +48,6 @@ The goal is to find SDE Internships or Software Engineer Intern roles where the 
 
 Multiple full-stack projects using the MERN stack have been developed, emphasizing clean code, scalability, and practical functionality.
 
-*   ### 🛒 [E-Commerce Website](https://github.com/amankumarthakur63/E-Commerce-Website)
-    A complete shopping platform with core functionalities including product listings, secure user authentication, shopping cart management, and order processing. This project highlights the ability to build end-to-end applications with real-world features.
-
-*   ### 🌐 [GitHub Clone](https://github.com/amankumarthakur63/GitHub-Clone)
-    Recreated a GitHub-style user interface, featuring repository pages, user profiles, and live search functionality using React and RESTful APIs. This project demonstrates proficiency in front-end development, API integration, and mimicking complex web applications.
-
-*   ### ⏰ [Smart Study Scheduler](https://github.com/amankumarthakur63/Smart-Study-Scheduler)
-    A MERN-stack application designed for efficient study planning, incorporating task priority and subject-based scheduling logic to enhance user productivity. This project showcases the ability to build functional applications with a focus on real-world utility and complex logic.
-
 *   ### 🎯 [Algorithms Visualizer](https://github.com/amankumarthakur63/Algorithm-Visualizer)
     An interactive tool designed to visualize sorting and searching algorithms, making complex concepts intuitive and engaging for learners.
 
