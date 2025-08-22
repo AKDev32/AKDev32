@@ -27,7 +27,6 @@ Here's a snapshot of the technical toolkit:
     <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,linux,postman,vscode" alt="Skills" />
   </a>
 </p>
-
 **CS Fundamentals:** Data Structures | Algorithms | Object-Oriented Programming (OOP) | RESTful APIs | Database Management
 
 **Tools & Practices:** Git & GitHub | Vercel | Netlify | Agile Methodologies | Clean Code | Scalability | System Design (Learning)
