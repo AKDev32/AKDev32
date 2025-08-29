@@ -58,8 +58,8 @@ I am **Aman Kumar**, a Computer Science Engineering undergraduate (**B.Tech 2027
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AKDev32&theme=tokyonight&show_icons=true&hide_border=false&card_width=350" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKDev32 &theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="285"/> <br>
-  <img src="https://streak-stats.demolab.com?user=AKDev32&theme=tokyonight&hide_border=false&card_width=350" width="320" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKDev32&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="285"/> <br>
+  <img src="https://streak-stats.demolab.com/?user=AKDev32&theme=tokyonight&hide_border=false&card_width=350" width="320" /><br>
 </p>
 
 <p align="center">
