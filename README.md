@@ -59,8 +59,6 @@ I am **Aman Kumar**, a Computer Science Engineering undergraduate (**B.Tech 2027
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AKDev32&theme=tokyonight&show_icons=true&hide_border=false&card_width=350" width="350" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKDev32&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="285"/> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKDev32&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=false" alt="Activity Graph"/>
-
 ---
 
 ## 🔗 Let's Connect!
