@@ -49,13 +49,6 @@ I am **Aman Kumar**, a Computer Science Engineering undergraduate (**B.Tech 2027
 
 ---
 
-## ✨ Featured Projects
-
-- ### 🎯 [Algorithms Visualizer](https://github.com/amankumarthakur63/Algorithm-Visualizer)  
-  An interactive tool to visualize sorting & searching algorithms, making complex concepts intuitive and engaging for learners.
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -77,9 +70,9 @@ I am **Aman Kumar**, a Computer Science Engineering undergraduate (**B.Tech 2027
 
 💬 Always open to collaboration, discussions, or brainstorming new ideas.  
 
-- **LinkedIn:** [Aman Kumar](https://linkedin.com/in/aman32)  
-- **LeetCode:** [Aman_LeetMind](https://leetcode.com/Aman_LeetMind)  
-- **Email:** amanku6936@gmail.com  
+[LinkedIn](https://linkedin.com/in/aman32)  
+[LeetCode](https://leetcode.com/Aman_LeetMind)  
+amanku6936@gmail.com  
 
 ---
 
