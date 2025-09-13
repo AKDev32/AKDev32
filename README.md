@@ -70,10 +70,17 @@ I am **Aman Kumar**, a Computer Science Engineering undergraduate (**B.Tech 2027
 
 💬 Always open to collaboration, discussions, or brainstorming new ideas.  
 
-[LinkedIn](https://linkedin.com/in/aman32)  
-[LeetCode](https://leetcode.com/Aman_LeetMind)  
-amanku6936@gmail.com  
-
+<p align="center">
+  <a href="https://linkedin.com/in/aman32" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/Aman_LeetMind" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:amanku6936@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 ---
 
 <p align="center">
