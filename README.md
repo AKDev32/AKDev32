@@ -38,6 +38,10 @@ I am **Aman Kumar**, a Computer Science Engineering undergraduate (**B.Tech 2027
 
 ## 📈 GitHub Stats
 
+![Profile views](https://komarev.com/ghpvc/?username=AKDev32&color=blue)
+![Repos](https://img.shields.io/badge/Public%20Repos-Number-informational)
+![Followers](https://img.shields.io/github/followers/AKDev32?label=Follow&style=social)
+
 <!-- Dynamic stats cards have been removed due to frequent API errors. -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=AKDev32&color=blue)
