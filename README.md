@@ -44,10 +44,6 @@ I am **Aman Kumar**, a Computer Science Engineering undergraduate (**B.Tech 2027
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKDev32&layout=compact&theme=radical" alt="Top Languages" />
   <br>
  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKDev32&show_icons=true&theme=radical" alt="AKDev32's GitHub stats" />
-</p>
-
 
 
 ---
