@@ -1,69 +1,37 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b3ff,100:2af598&height=120&section=header&text=Hi!%20I'm%20Aman%20Kumar&fontSize=42&animation=fadeIn" />
+Aman Kumar | Software Engineer & MERN Stack Developer
+<p align="left">
+<a href="https://linkedin.com/in/aman32" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/Aman_LeetMind" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="mailto:amanku6936@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 </p>
 
+I am a Computer Science undergraduate (B.Tech 2027) with a passion for building scalable, user-centric web applications. Specializing in the MERN Stack, I have a strong foundation in Data Structures & Algorithms and thrive on solving complex problems.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00b3ff&center=true&vCenter=true&width=435&lines=Software+Development+Engineer+Intern;Full+Stack+MERN+Developer;DSA+Enthusiast" alt="Typing SVG" />
-</p>
+I am actively seeking Software Engineer Intern / SDE Intern opportunities where I can contribute to building impactful products and grow my skills in a collaborative environment.
 
----
-
-## 🛠 Skills & Tools
-
-Here's a snapshot of my technical toolkit:
-
+🛠️ My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,linux,postman,vscode" alt="Skills" />
   </a>
 </p>
 
-**CS Fundamentals:** Data Structures | Algorithms | Object-Oriented Programming (OOP) | RESTful APIs | Database Management  
-**Tools & Practices:** Git & GitHub | Vercel | Netlify | Agile Methodologies | Clean Code | Scalability | System Design (Learning)
+CS Fundamentals: Data Structures, Algorithms, OOP, Database Management
 
----
+Practices: Agile Methodologies, Clean Code, Version Control
 
-## 👨‍💻 About Me
-
-I am **Aman Kumar**, a Computer Science Engineering undergraduate (**B.Tech 2027**) at **Punjab Technical University (PTU)**, specializing in **MERN Stack development**.  
-
-- 🚀 Passionate about building scalable, user-centric web applications that solve real-world challenges.  
-- 💡 Strong foundation in **Data Structures & Algorithms** (200+ problems solved on LeetCode & GFG).  
-- ⚡ Skilled in **React.js, Node.js, Express.js, MongoDB** for developing full-stack applications.  
-- 📚 Currently deepening knowledge in **System Design** & high-performance architectures.  
-- 🎯 Actively seeking **SDE Internships / Software Engineer Intern roles** at product-based companies.  
-
----
-
-## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=AKDev32&show_icons=true&theme=radical" alt="AKDev32's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKDev32&layout=compact&theme=radical" alt="Top Languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AKDev32&theme=radical" alt="GitHub Streak" />
-
-You can view my latest activity directly on [my GitHub profile](https://github.com/AKDev32)
-
-
----
-
-## 🔗 Let's Connect!
-
-💬 Always open to collaboration, discussions, or brainstorming new ideas.  
-
+📈 My GitHub Activity
 <p align="center">
-  <a href="https://linkedin.com/in/aman32" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/Aman_LeetMind" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="mailto:amanku6936@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAKDev32%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26rank_icon%3Dgithub" alt="AKDev32's GitHub stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAKDev32%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DAKDev32%26theme%3Dradical%26hide_border%3Dtrue" alt="GitHub Streak" />
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b3ff,100:2af598&height=100&section=footer" />
