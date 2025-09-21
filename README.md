@@ -13,12 +13,13 @@ I am actively seeking Software Engineer Intern / SDE Intern opportunities where 
 </p>
 CS Fundamentals: Data Structures, Algorithms, OOP, Database Management
 Practices: Agile Methodologies, Clean Code, Version Control
-
-📈 My GitHub Activity
+## 📈 My GitHub Activity
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAKDev32%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26rank_icon%3Dgithub" alt="AKDev32's GitHub stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAKDev32%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Top Languages" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DAKDev32%26theme%3Dradical%26hide_border%3Dtrue" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AKDev32&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="AKDev32's GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKDev32&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKDev32&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="left">
