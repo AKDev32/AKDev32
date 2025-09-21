@@ -33,6 +33,7 @@ Practices: Agile Methodologies, Clean Code, Version Control
 </a>
 </p>
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b3ff,100:2af598&height=100&section=footer" />
 </p>
