@@ -2,7 +2,6 @@ Aman Kumar | Software Engineer & MERN Stack Developer
 
 I am a Computer Science undergraduate (B.Tech 2027) with a passion for building scalable, user-centric web applications. Specializing in the MERN Stack, I have a strong foundation in Data Structures & Algorithms and thrive on solving complex problems.
 
-
 I am actively seeking Software Engineer Intern / SDE Intern opportunities where I can contribute to building impactful products and grow my skills in a collaborative environment.
 
 🛠️ My Tech Stack
