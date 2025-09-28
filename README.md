@@ -4,6 +4,7 @@ I am a Computer Science undergraduate (B.Tech 2027) with a passion for building 
 
 I am actively seeking Software Engineer Intern / SDE Intern opportunities where I can contribute to building impactful products and grow my skills in a collaborative environment.
  
+
 🛠️ My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
