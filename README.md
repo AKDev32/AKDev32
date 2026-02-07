@@ -21,18 +21,15 @@ I am a disciplined developer focused on building scalable, high-performance web 
 ### 🦀 Languages & Databases
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AKDev32&theme=dark&show_icons=true&hide_border=false" alt="Aman's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=AKDev32&theme=radical&show_icons=true&hide_border=false" alt="Aman's Stats" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AKDev32&theme=dark&hide_border=false" alt="Aman's Streak" />
+<img src="https://streak-stats.demolab.com/?user=AKDev32&theme=radical&hide_border=false" alt="Aman's Streak" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKDev32&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKDev32&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 ### 🏆 GitHub Trophies
