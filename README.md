@@ -40,7 +40,16 @@ I am a disciplined developer focused on building scalable, high-performance web 
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+
 ---
+
+> \[!IMPORTANT]
+>
+> **Star Us**, You will receive all release notifications from GitHub without any delay \~ ⭐️
+
+[![][image-star]][github-stars-link]
+
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=AKDev32&icon=0&color=0" alt="Visit Count" />
 </p>
