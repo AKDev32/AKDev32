@@ -28,7 +28,7 @@ I am a disciplined developer focused on building scalable, high-performance web 
 <a  href="https://github.com/AKDev32">
 
 <img src="https://raw.githubusercontent.com/AKDev32/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/AKDev32/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/AKDev32/profile-summary-cards/master/AKDev32/nord_dark/1-repos-per-language.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/AKDev32/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 </a>
