@@ -1,83 +1,38 @@
-# Aman Kumar  
-**Software Engineering Undergraduate | MERN Stack Developer**
+# Hi, I'm Aman Kumar 👋
+### Software Engineering Undergraduate | MERN Stack Developer | SDE Aspirant
 
-Software engineering undergraduate with a strong focus on **backend systems and full-stack web development**. Experienced in building **scalable, secure, and maintainable MERN applications**, backed by solid fundamentals in **Data Structures, Algorithms, and Core Computer Science**. Passionate about solving real-world problems through clean code and efficient system design.
-
----
-
-## Professional Summary
-Detail-oriented and disciplined developer with hands-on experience delivering **end-to-end web applications**. Adept at translating product requirements into reliable technical solutions while maintaining high standards for **code quality, performance, and scalability**. Continuously improving problem-solving abilities through rigorous DSA practice and system-level thinking.
-
-My engineering philosophy reflects FAANG-style principles:  
-**simplicity, correctness, scalability, and measurable impact**.
+I am a disciplined developer focused on building scalable, high-performance web applications and mastering the core foundations of Computer Science. My engineering philosophy is rooted in **simplicity, correctness, and measurable impact.**
 
 ---
 
-## Technical Expertise
+### 🛠️ Technical Toolkit
 
-### Programming Languages
-- **Java**, **JavaScript**
-
-### Frontend Development
-- **React.js** (component-driven architecture)
-- **HTML5, CSS3**
-- **Tailwind CSS**
-
-### Backend Development
-- **Node.js**, **Express.js**
-- **RESTful API design**
-- Authentication & authorization
-
-### Databases
-- **MongoDB** (schema design, indexing, performance optimization)
-
-### Computer Science Foundations
-- **Data Structures & Algorithms**
-- **Object-Oriented Programming**
-- **Database Management Systems**
-- **Computer Networks**
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Java, JavaScript (ES6+), HTML5, CSS3 |
+| **Frontend** | React.js, Tailwind CSS, Redux |
+| **Backend** | Node.js, Express.js, RESTful APIs |
+| **Database** | MongoDB (Schema Design, Optimization) |
+| **Core CS** | Data Structures & Algorithms, OOPs, DBMS, CN |
 
 ---
 
-## Experience
-
-### Freelance & Personal Projects
-- Designed and developed **full-stack MERN applications** with role-based access control and secure authentication  
-- Architected **REST APIs** with emphasis on scalability, security, and clean separation of concerns  
-- Improved application performance through optimized queries, efficient data handling, and modular code structure  
-- Collaborated with stakeholders to convert business requirements into robust technical solutions  
-
-### Problem Solving & DSA
-- Consistent practice of algorithmic challenges across **arrays, linked lists, stacks, queues, trees, graphs, and dynamic programming**  
-- Strong command over **time and space complexity analysis**  
-- Focused on writing **clear, maintainable, and efficient** solutions suitable for production environments  
+### 💻 What I’m Working On
+- 🛠️ **Full-Stack Mastery:** Building production-grade MERN applications with a focus on security and RBAC (Role-Based Access Control).
+- 🧠 **Problem Solving:** Daily practice of LeetCode/GFG to sharpen my command over $O(n)$ efficiency and complex data structures.
+- 🏗️ **System Design:** Transitioning from "making it work" to "making it scale."
 
 ---
 
-## Selected Work
-
-### MERN Stack Applications
-- Built production-ready applications using **React, Node.js, Express, and MongoDB**  
-- Employed reusable components, clean API layers, and optimized backend logic  
-- Followed best practices in code organization, error handling, and security  
-
-### Data Structures & Core CS
-- Java-based implementations of fundamental and advanced data structures  
-- Well-structured solutions highlighting trade-offs and performance considerations  
+### 📈 GitHub Stats
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
 
 ---
 
-## Availability
-- **Internship Opportunities:** Software Engineering / Backend / Full-Stack  
-- **Freelance Work:** Remote MERN Stack Web Development  
+### 🤝 Let's Connect
+- 🌐 **Portfolio:** [amanportfolio-eta.vercel.app](https://amanportfolio-eta.vercel.app/)
+- 📧 **Email:** [amankumar.cs27@gmail.com](mailto:amankumar.cs27@gmail.com)
+- 💼 **LinkedIn:** [Your LinkedIn Link Here]
 
----
-
-## Contact
-- **Portfolio:** https://amanportfolio-eta.vercel.app/  
-- **Email:** amankumar.cs27@gmail.com  
-
----
-
-### Professional Focus
-**Engineering Excellence · Scalable Systems · Clean Code · Continuous Learning**
+*"Simplicity is the soul of efficiency."*
