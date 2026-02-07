@@ -89,7 +89,7 @@ with a strong interest in <b>Backend Engineering</b>, <b>System Design</b>, and 
 - Strong in **Arrays, Trees, Graphs, DP, Greedy, Sliding Window**  
 - Practicing **System Design & Backend Engineering**
 
-📌 **LeetCode:** (Add link)
+📌 **LeetCode:** (https://leetcode.com/u/amankumar_cs/)
 
 ---
 
