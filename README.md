@@ -25,14 +25,14 @@ I am a disciplined developer focused on building scalable, high-performance web 
 ---
 
 ### 📈 GitHub Stats
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKDev32 &show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKDev32 &layout=compact&theme=radical)
 
 ---
 
 ### 🤝 Let's Connect
-- 🌐 **Portfolio:** [amanportfolio-eta.vercel.app](https://amanportfolio-eta.vercel.app/)
+- 🌐 **Portfolio:** [amanportfolio-eta.vercel.app](https://aman-portfolio-stable.vercel.app/)
 - 📧 **Email:** [amankumar.cs27@gmail.com](mailto:amankumar.cs27@gmail.com)
-- 💼 **LinkedIn:** [Your LinkedIn Link Here]
+- 💼 **LinkedIn:** [linkedin.com/in/aman32]
 
 *"Simplicity is the soul of efficiency."*
