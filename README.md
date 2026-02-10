@@ -29,6 +29,12 @@ with a strong interest in <b>Backend Engineering</b>, <b>System Design</b>, and 
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+
+<a href="https://drive.google.com/file/d/1M4wuE6LL8xyRCRXND9Z7-ZT7vivXe4fQ/view?usp=embed_facebook&usp=embed_facebook">
+  <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=AKDev32&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
