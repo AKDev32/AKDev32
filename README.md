@@ -95,21 +95,9 @@ with a strong interest in <b>Backend Engineering</b>, <b>System Design</b>, and 
 
 ## 📊 GitHub Analytics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKDev32&show_icons=true&theme=tokyonight" />
-</p>
-
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKDev32" alt="AKDev32" />
 </p>
-
----
-
-## 🏆 GitHub Trophies  
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AKDev32&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
 
 ---
 
