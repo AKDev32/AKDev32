@@ -94,17 +94,17 @@ with a strong interest in <b>Backend Engineering</b>, <b>System Design</b>, and 
 ---
 
 ## 📊 GitHub Analytics  
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AKDev32&show_icons=true&locale=en&layout=compact" alt="AKDev32" />
+</p>
 
-<div align="center">
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AKDev32&show_icons=true&locale=en" alt="AKDev32" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AKDev32&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AKDev32&theme=tokyonight&hide_border=true" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKDev32&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKDev32" alt="AKDev32" />
+</p>
 
 ---
 
