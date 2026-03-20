@@ -4,7 +4,6 @@
 # Hi, I'm Aman Kumar 👋  
 ### 🚀 Software Engineering Undergraduate | MERN Stack Developer | SDE Aspirant  
 
-
 <p align="center">
   <b>Disciplined Developer • Scalable Systems • Clean Code • Problem Solving</b>
 </p>
