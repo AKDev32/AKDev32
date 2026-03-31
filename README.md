@@ -7,7 +7,6 @@
   <b>Disciplined Developer • Scalable Systems • Clean Code • Problem Solving</b>
 </p>
 
-
 <p align="center">
 I build scalable full-stack web applications and focus deeply on <b>Computer Science fundamentals</b>,  
 with a strong interest in <b>Backend Engineering</b>, <b>System Design</b>, and <b>DSA</b>.
