@@ -12,7 +12,6 @@ I build scalable full-stack web applications and focus deeply on <b>Computer Sci
 with a strong interest in <b>Backend Engineering</b>, <b>System Design</b>, and <b>DSA</b>.
 </p>
 
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00C2FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Backend+%26+System+Design+Enthusiast;Java+%7C+DSA+%7C+Problem+Solving;Building+Projects+with+Impact" />
 
 <br/>
