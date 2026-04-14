@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Hi, I'm Aman Kumar 👋  
 ### 🚀 Software Engineering Undergraduate | MERN Stack Developer | SDE Aspirant |Machine Learning Developer 
@@ -126,4 +126,133 @@ with a strong interest in <b>Backend Engineering</b>, <b>System Design</b>, and 
 
 ### ⭐ If you like my work, consider giving a star to my repositories!
 
-</div>
+</div> -->
+
+
+
+
+# Hi, I'm Aman Kumar 👋  
+### 🚀 Software Engineering Undergraduate | MERN Stack Developer | SDE Aspirant | ML Enthusiast  
+
+<p align="center">
+  <b>Disciplined Developer • Scalable Systems • Clean Code • Problem Solving</b>
+</p>
+
+<p align="center">
+I build scalable full-stack applications and focus on <b>Computer Science fundamentals</b>,  
+with strong interest in <b>Backend Engineering</b>, <b>System Design</b>, and <b>Machine Learning</b>.
+</p>
+
+---
+
+## 👨‍💻 About Me  
+
+- 🎓 B.Tech Computer Science Undergraduate  
+- ⚡ MERN Stack Developer focused on scalable backend systems  
+- 🧠 Strong in Data Structures, Algorithms & Problem Solving  
+- 🤖 Hands-on experience in Machine Learning & Deep Learning  
+- 🚀 Exploring Distributed Systems, Redis, and System Design  
+- 🎯 Goal: Secure an SDE/ML role in a top product-based company  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🚀 Development  
+- React, Next.js, Node.js, Express, Socket.io  
+
+### 🧠 Programming Languages  
+- Java, JavaScript, Python  
+
+### 🤖 Machine Learning  
+- NumPy, Pandas, Scikit-learn  
+- Deep Learning basics (Neural Networks, Transformers)  
+- NLP & Classification Models  
+
+### 🗄️ Databases  
+- MongoDB, MySQL, Redis  
+
+### ⚙️ Tools  
+- Git, GitHub, Postman  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🔥 RateLimiter Pro (Distributed System)  
+- Designed a **production-grade rate limiting system**  
+- Implemented **Token Bucket & Sliding Window algorithms**  
+- Used **Redis for high-performance caching**  
+- Supports **distributed architecture & real-time monitoring**  
+
+---
+
+### 🤖 Machine Learning Projects  
+
+#### 📰 Fake News Detection (NLP)  
+- Built using **Natural Language Processing techniques**  
+- Applied **text preprocessing, TF-IDF & classification models**  
+- Achieved high accuracy in detecting misleading content  
+
+#### 💳 Credit Card Fraud Detection  
+- Implemented **anomaly detection models**  
+- Handled **imbalanced datasets** using ML techniques  
+- Focused on **precision & recall optimization**  
+
+#### 🪖 Helmet Detection System  
+- Developed using **Deep Learning (Computer Vision)**  
+- Detects safety compliance in real-time scenarios  
+
+#### 🧠 NanoGPT (Transformer Model)  
+- Implemented a **GPT-style language model from scratch**  
+- Gained deep understanding of **attention mechanisms & transformers**  
+
+---
+
+### 🌐 Real-Time Chat Application  
+- Built using **Socket.io for real-time communication**  
+- Supports **multi-user messaging with low latency**  
+- Designed scalable backend handling concurrent users  
+
+---
+
+### 🎥 WebRTC Video Streaming System  
+- Developed **peer-to-peer video communication system**  
+- Implemented real-time signaling & connection handling  
+
+---
+
+### 🗄️ Column-Store Database Engine  
+- Built a **custom database engine**  
+- Implemented **dictionary encoding & RLE compression**  
+- Optimized for **query performance and storage efficiency**  
+
+---
+
+## 🧠 DSA & Problem Solving  
+
+- Solved **250+ problems on LeetCode**  
+- Strong in **Arrays, Trees, Graphs, DP, Greedy**  
+- Practicing **System Design & Backend Engineering**  
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKDev32" />
+</p>
+
+---
+
+## 🤝 Let's Connect  
+
+📩 Open to **internships, ML roles, and software development opportunities**  
+
+- Email: amankumar.cs27@gmail.com  
+- LinkedIn: https://linkedin.com/in/aman32  
+- Portfolio: https://aman-portfolio-stable.vercel.app  
+
+---
+
+### ⭐ If you like my work, consider starring my repositories!
