@@ -15,7 +15,6 @@ with a strong interest in <b>Backend Engineering</b>, <b>System Design</b>, and 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00C2FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Backend+%26+System+Design+Enthusiast;Java+%7C+DSA+%7C+Problem+Solving;Building+Projects+with+Impact" />
 
 <br/>
-
 <a href="https://linkedin.com/in/aman32">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
