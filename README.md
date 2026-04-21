@@ -7,7 +7,6 @@
 <p align="center">
   <b>Performance-Driven Developer • Systems Architect • Problem Solver</b>
 </p>
-
 ---
 
 ## 👨‍💻 Engineering Philosophy
