@@ -11,7 +11,6 @@
 
 ## 👨‍💻 Engineering Philosophy
 I specialize in bridging the gap between **high-level application logic** and **low-level system efficiency**. My work focuses on building tools that don't just work, but scale under pressure.
-
 ---
 
 ## 🚀 High-Impact Technical Projects
