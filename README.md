@@ -69,7 +69,7 @@ I am currently seeking **SDE / ML Engineer** opportunities where I can contribut
 - 📍 **Location:** Punjab, India (Open to Remote/Relocation)
 - 📧 **Direct:** amankumar005562@gmail.com
 - 🔗 **LinkedIn:** [/in/aman32](https://linkedin.com/in/aman32)
-- 🌐 **Portfolio:** [aman-portfolio-stable.vercel.app](https://aman-portfolio-stable.vercel.app)
+- 🌐 **Portfolio:** [amankr32.vercel.app](https://aman-portfolio-stable.vercel.app)
 
 ---
 <div align="center">
