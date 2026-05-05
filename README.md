@@ -1,77 +1,125 @@
-# Aman Kumar | Software Engineer 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00C2FF&center=true&vCenter=true&width=600&lines=Distributed+Systems+Enthusiast;MERN+Stack+Specialist;ML+%26+Computer+Vision+Developer;Building+Scalable+Architectures" />
-</div>
+<h1 align="center">Hi, I'm Aman Kumar 👋</h1>
+<h3 align="center">Full-Stack Developer & ML Engineer · B.Tech CS @ PTU '27 · Open to Internships 2026</h3>
 
 <p align="center">
-  <b>Performance-Driven Developer • Systems Architect • Problem Solver</b>
+  <a href="https://www.linkedin.com/in/aman32" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:amankumar005562@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://glittery-custard-e16684.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 Engineering Philosophy
-I specialize in bridging the gap between **high-level application logic** and **low-level system efficiency**. My work focuses on building tools that don't just work, but scale under pressure.
----
+## About me
 
-## 🚀 High-Impact Technical Projects
-
-### 🔥 RateLimiter Pro | [Distributed Systems & Redis]
-*An enterprise-grade middleware designed to protect APIs from DoS and cascading failures.*
-- **Performance:** Optimized to handle **10k+ requests/sec** with sub-millisecond overhead.
-- **Architectural Depth:** Implemented **Sliding Window Log** & **Token Bucket** algorithms using Lua scripting in Redis to ensure atomicity.
-- **Impact:** Solves the "race condition" problem inherent in basic distributed counters.
-- [Repo Link] | [System Design Doc]
-
-### 🗄️ Column-Store Engine | [Database Internals & C++]
-*Custom storage engine engineered for analytical query speed.*
-- **Optimization:** Achieved up to **10x faster aggregation** than row-based CSV parsing via columnar memory mapping.
-- **Data Compression:** Integrated **Dictionary Encoding** and **RLE**, reducing disk footprint by ~40% for redundant datasets.
-- [Technical Writeup] | [Benchmarks]
-
-### 🧠 NanoGPT & Computer Vision | [AI/ML]
-*Deep dive into transformer architectures and real-time compliance monitoring.*
-- **Generative AI:** Built a GPT-style model from scratch to master **Attention Mechanisms** and **Backpropagation**.
-- **Edge AI:** Developed a real-time **Helmet Detection System** using YOLO logic, optimized for low-latency inference on edge devices.
-- [Project Demo] | [Model Metrics]
+- 🎓 Third-year CS student at Punjab Technical University, graduating May 2027
+- 💻 I build full-stack systems (MERN) and train ML models that solve real problems
+- 🔧 Cut API response time by **15%** at my internship via MongoDB query optimization
+- 🌐 Built a real-time chat app, WebRTC P2P video streamer & distributed rate limiter from scratch
+- 🤖 Trained a NanoGPT-style language model, fraud detection classifier & fake news detection pipeline
+- 📬 Looking for **SDE / ML internships — Summer/Fall 2026**
 
 ---
 
-## 🛠️ Specialized Skill Matrix
+## 🛠 Tech stack
 
-| Systems & Backend | Frontend & UI | AI/ML & Data |
-| :--- | :--- | :--- |
-| **Engines:** Node.js, Express | **Frameworks:** React, Next.js | **ML:** Scikit-Learn, PyTorch |
-| **Caching:** Redis, Memcached | **Styling:** Tailwind, Framer Motion | **CV:** OpenCV, Image Processing |
-| **Databases:** MongoDB, MySQL | **State:** Redux Toolkit, Context API | **Tools:** NumPy, Pandas |
-| **Real-time:** Socket.io, WebRTC | **Design:** Figma, UX Research | **Math:** Linear Algebra, Stats |
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+
+**Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**ML / AI**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ---
 
-## 🧠 Competitive Programming & Fundamentals
-- **DSA:** 250+ LeetCode problems solved with a focus on **Dynamic Programming** and **Graph Theory**.
-- **CS Core:** Deep understanding of **Operating Systems** (Process Sync, Deadlocks), **Computer Networks** (TCP/IP, OSI), and **DBMS** (Indexing, Sharding).
-- **Open Source:** Active contributor to community-driven software, focusing on code quality and documentation.
+## 🚀 Project highlights
+
+### 🔁 Distributed rate limiter
+> Token Bucket + Sliding Window algorithms · Node.js · Redis
+
+Built a production-grade rate limiting system from scratch supporting both Token Bucket and Sliding Window strategies. Handles concurrent request bursts with configurable thresholds per route.
 
 ---
 
-## 📊 Performance at a Glance
+### 💬 Real-time chat platform
+> Socket.io · Node.js · MongoDB · React
+
+Full-stack real-time messaging app with room-based chat, typing indicators, and persistent message history. Optimized for concurrent users with low-latency event delivery.
+
+---
+
+### 📹 P2P video streaming
+> WebRTC · Node.js · Signaling server
+
+Peer-to-peer video calling platform with optimized signaling logic for unstable network conditions. Implements ICE candidate handling and STUN/TURN fallback.
+
+---
+
+### 🗄️ Column-store database engine
+> Python · Dictionary encoding · RLE compression
+
+Built a columnar storage engine from scratch with dictionary encoding and Run-Length Encoding (RLE) compression — mimicking core concepts behind analytical databases like ClickHouse.
+
+---
+
+### 🤖 NanoGPT-style language model
+> PyTorch · Transformer architecture · Character-level tokenization
+
+Implemented a GPT-style autoregressive language model from scratch including multi-head self-attention, positional encoding, and training loop with learning rate scheduling.
+
+---
+
+### 🛡️ Credit card fraud detection
+> Python · scikit-learn · Class imbalance handling (SMOTE)
+
+Trained a fraud classifier on imbalanced financial data using SMOTE oversampling and ensemble methods, achieving high recall on minority class (fraud cases).
+
+---
+
+## 📊 GitHub stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AKDev32&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AKDev32&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AKDev32&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKDev32&layout=compact&theme=default&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AKDev32&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman32&theme=github-light&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Professional Connection
-I am currently seeking **SDE / ML Engineer** opportunities where I can contribute to high-stakes backend architecture or intelligent systems.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AKDev32&style=flat-square&color=grey" alt="profile views" />
+</p>
 
-- 📍 **Location:** Punjab, India (Open to Remote/Relocation)
-- 📧 **Direct:** amankumar005562@gmail.com
-- 🔗 **LinkedIn:** [/in/aman32](https://linkedin.com/in/aman32)
-- 🌐 **Portfolio:** [amankr32.vercel.app](https://aman-portfolio-stable.vercel.app)
-
----
-<div align="center">
-  <b>"Clean code always looks like it was written by someone who cares."</b> — Michael Feathers
-</div>
+<p align="center">Open to SDE & ML internship opportunities · Summer/Fall 2026 · <a href="mailto:amankumar005562@gmail.com">amankumar005562@gmail.com</a></p>
