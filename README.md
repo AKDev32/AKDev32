@@ -113,7 +113,7 @@ Trained a fraud classifier on imbalanced financial data using SMOTE oversampling
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman32&theme=github-light&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKDev32&theme=github-light&hide_border=true" />
 </p>
 
 ---
