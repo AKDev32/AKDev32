@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Aman Kumar 👋</h1>
 <h3 align="center">Full-Stack Developer & ML Engineer · B.Tech CS @ PTU '27 · Open to Internships 2026</h3>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/aman32" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
