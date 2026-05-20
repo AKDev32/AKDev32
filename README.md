@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer & ML Engineer · B.Tech CS @ PTU '27 · Open to Internships 2026</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aman32" target="_blank">
+  <a href="https://www.linkedin.com/in/amankr32" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:amankumar005562@gmail.com">
@@ -104,22 +104,22 @@ Trained a fraud classifier on imbalanced financial data using SMOTE oversampling
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKDev32&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKDev32&layout=compact&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amankr32&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankr32&layout=compact&theme=default&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AKDev32&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=amankr32&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKDev32&theme=github-light&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amankr32&theme=github-light&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AKDev32&style=flat-square&color=grey" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=amankr32&style=flat-square&color=grey" alt="profile views" />
 </p>
 
 <p align="center">Open to SDE & ML internship opportunities · Summer/Fall 2026 · <a href="mailto:amankumar005562@gmail.com">amankumar005562@gmail.com</a></p>
