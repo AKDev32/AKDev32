@@ -122,4 +122,5 @@ Trained a fraud classifier on imbalanced financial data using SMOTE oversampling
   <img src="https://komarev.com/ghpvc/?username=amankr32&style=flat-square&color=grey" alt="profile views" />
 </p>
 
+
 <p align="center">Open to SDE & ML internship opportunities · Summer/Fall 2026 · <a href="mailto:amankumar005562@gmail.com">amankumar005562@gmail.com</a></p>
